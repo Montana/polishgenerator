@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
+body{
+  font-family: 'Press Start 2P', cursive;
+  font-size: 400%;
+}
+.b1
+{
+  position: absolute;
+
+  top:20%;
+  font-size: 50%;
+}
+.fName
+{
+  position: absolute;
+
+  top:5%;
+}
+.lName
+{
+  position: absolute;
+
+  padding-left: 20px;
+  top:5%;
+  left:35%;
+}
