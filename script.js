@@ -6,7 +6,7 @@ var firstArray = ['Jon', 'Tim', 'Joe', 'Jack', 'Don', 'Steve', 'Bill', 'Zack', '
  'Stan', 'Dan', 'Paul', 'Brandon', 'Nathan', 'Tom', 'Sally'];
 var lastArray = ['Nampalski', 'Brampulskin', 'Kulkslki', 'Fapoolksi', 'Naxtoplkiski', 'Trowinski',
  'Forwinsky', 'Gribalski', 'Sampalski',
- 'Cage', 'Mapnalski', 'Crambalski'];
+ 'Mapnalski', 'Crambalski'];
 
 var random = function(){
   var a = firstArray[Math.floor(Math.random() * firstArray.length)];
